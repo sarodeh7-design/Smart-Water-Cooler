@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://jatinkatkar.github.io/ktu-dashboard",
+  "homepage": "https://sarodeh7-design.github.io/Smart-Water-Cooler",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
